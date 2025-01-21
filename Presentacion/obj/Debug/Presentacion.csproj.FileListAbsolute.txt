@@ -1,0 +1,83 @@
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Principal.baml
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Principal.g.cs
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\App.g.cs
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Trabajo.baml
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Trabajo.g.cs
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Entidades.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Negocio.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Datos.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Datos.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Persona.baml
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Persona.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Negocio.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Datos.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Datos.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Persona.baml
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Principal.baml
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Trabajo.baml
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Persona.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Principal.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Trabajo.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\App.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Empresa.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Empresa.baml
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Postulantes.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Postulantes.baml
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\PostulantesAceptados.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\PostulantesAceptados.baml
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Negocio.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Datos.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\bin\Debug\Datos.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Persona.baml
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Principal.baml
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Trabajo.baml
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Empresa.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Persona.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Postulantes.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\PostulantesAceptados.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Principal.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Trabajo.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\App.g.cs
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Empresa.baml
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Postulantes.baml
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\PostulantesAceptados.baml
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache

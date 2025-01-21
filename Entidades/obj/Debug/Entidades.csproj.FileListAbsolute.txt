@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\bin\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\bin\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Entidades\obj\Debug\Entidades.pdb

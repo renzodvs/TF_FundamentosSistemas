@@ -1,0 +1,27 @@
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Datos.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Entidades.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Datos.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Entidades.pdb
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\Documents\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Negocio.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Datos.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Datos.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.dll
+C:\Users\SALVADOR VENTURA\Desktop\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Negocio.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Datos.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Entidades.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Datos.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\bin\Debug\Entidades.pdb
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.dll
+C:\Users\SALVADOR VENTURA\Desktop\UPC\Fundamentos\Trabajo Final Fundamentos\Trabajo_Final_Fundamentos\Negocio\obj\Debug\Negocio.pdb
